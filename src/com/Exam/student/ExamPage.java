@@ -1,7 +1,6 @@
 /*
  * ExamPage.java
  * modified by fanshuai from linux
->>>>>>> 900af580c1445c5aa83f75d965db7a72364cbe37
  * modified by others
  * Created on 2008年8月2日, 下午12:59
  */
