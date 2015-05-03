@@ -1,6 +1,6 @@
 /*
  * ExamPage.java
- * modified by fanshuai
+ * modified by fanshuai from linux
  * modified by others
  * Created on 2008年8月2日, 下午12:59
  */
